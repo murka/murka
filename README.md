@@ -8,6 +8,7 @@
 
 ### Donate 🤑
 - Patreon: [patreon.com/shaymurzin](https://patreon.com/shaymurzin)
+- PayPal: [paypal.me/shaymurzindanil](https://paypal.me/shaymurzindanil)
 - Ko-fi: [ko-fi.com/murka](https://ko-fi.com/murka)
 - Rocketbank: [rocketbank.ru/murka](https://rocketbank.ru/murka)
 - QIWI: [qiwi.com/n/SHAYMURZIN](https://qiwi.com/n/SHAYMURZIN)
