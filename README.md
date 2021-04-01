@@ -6,8 +6,8 @@
 
 ### CV :eyes:
 
-☁️ TypeScript, NestJS, GraphQL, TypeORM  
-☁️ Apache Kafka, 🐳Docker (& k8s), 🦊 Gitlab CI, 🐧 Linux, AWS, S3  
-☁️ Prometheus, Zabbix, Grafana, PostgreSQL, MongoDB  
-🇬🇧 English B2  
-🇷🇺 Russian Native
+- ☁️ TypeScript, NestJS, GraphQL, TypeORM  
+- ☁️ Apache Kafka, 🐳Docker (& k8s), 🦊 Gitlab CI, 🐧 Linux, AWS, S3  
+- ☁️ Prometheus, Zabbix, Grafana, PostgreSQL, MongoDB  
+- 🇬🇧 English B2  
+- 🇷🇺 Russian Native
