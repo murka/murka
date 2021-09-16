@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Contacts 💬
-- Email: via@mrzn.org
+- Email: im@murka.me
 - Telegram: [t.me/shaymurzin](https://t.me/shaymurzin)
-
+- Web: [murka.me](https://murka.me)
 ### CV :eyes:
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)![rust](https://img.shields.io/badge/rust-dea584.svg?&style=for-the-badge&logo=rust&logoColor=white)![typescript](https://img.shields.io/badge/TypeScript-3178c6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)  
 ![nestjs](https://img.shields.io/badge/nestjs-e0234e.svg?&style=for-the-badge&logo=nestjs&logoColor=white)![graphql](https://img.shields.io/badge/graphql-e632ad.svg?&style=for-the-badge&logo=GraphQL&logoColor=white)![typeorm](https://img.shields.io/badge/typeorm-fe0902.svg?&style=for-the-badge&logo=TypeORM&logoColor=white)  
