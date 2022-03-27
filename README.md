@@ -1,4 +1,4 @@
 ### Contacts 💬
 - Email: im@murka.me
-- Telegram: [t.me/shaymurzin](https://t.me/shaymurzin)
+- Telegram: [murka.me/t](https://murka.me/t)
 - Web: [murka.me](https://murka.me)
