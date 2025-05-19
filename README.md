@@ -6,4 +6,4 @@
 - Web: [murka.me](https://murka.me)
 
 ### My studying roadmap 👨‍🎓
-- Repo: [study](https://github.com/murka/study)
+- Repo: [Sapere Aude](https://github.com/murka/sapereaude)
